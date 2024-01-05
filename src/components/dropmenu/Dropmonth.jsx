@@ -16,8 +16,8 @@ const DropdownMenu = () => {
   };
 
   return (
-    <div>
-      <h3>Select Month</h3>
+    <div className='drop'>
+      <h3>Show Time</h3>
       <select value={selectedMonth} onChange={handleChange}>
         <option value="">Select a month</option>
         {months.map((month) => (

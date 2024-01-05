@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import Highlightbar from "../highlightbar/Highlightbar"; 
 import Dropmonth from "../dropmenu/Dropmonth"; 
 import Chart1 from "../charts/Chart1";
