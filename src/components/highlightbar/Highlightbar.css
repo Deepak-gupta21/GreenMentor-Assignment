@@ -1,0 +1,20 @@
+/* SmallDivComponent.css */
+
+.small-div {
+    width: 15em; /* Example width */
+    height: 7em; /* Example height */
+    background-color: #f0f0f0; /* Example background color */
+    color: #333; /* Example text color */
+    border: 1px solid #ccc; /* Example border */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 2em;
+  }
+.inner-div{
+  width: 13em; /* Example width */
+  height: 3em; /* Example height */
+  background-color: #8a8181; /* Example background color */
+  
+}

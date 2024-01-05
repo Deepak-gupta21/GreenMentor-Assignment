@@ -1,0 +1,59 @@
+/* Sidebar.css */
+.sidebar {
+    width: 20vw;
+    background-color: #333;
+    color: #fff;
+    overflow-y: auto; 
+    flex-direction: column;
+    justify-content: center; /* Center horizontally */;
+    align-items: flex-start; /* Align to the top vertically */
+  }
+  
+  .sidebar h2 {
+    padding: 20px;
+    margin: 0;
+  }
+  
+  .sidebar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .sidebar li {
+    padding: 12px 20px;
+    cursor: pointer;
+  }
+  
+  .sidebar li:hover {
+    background-color: #555;
+  }
+  
+  /* Styles for the collapsible submenu */
+  .submenu {
+    display: none;
+    padding-left: 20px;
+  }
+  
+  .submenu.active {
+    display: block;
+  }
+  
+  /* Styling for the button */
+.custom-button {
+    padding: 10px 20px; /* Padding around the text */
+    font-size: 16px; /* Font size */
+    font-weight: bold; /* Bold font weight */
+    border: none; /* Remove default button border */
+    border-radius: 5px; /* Rounded corners */
+    background-color: #3498db; /* Button background color */
+    color: #fff; /* Text color */
+    cursor: pointer; /* Show pointer cursor on hover */
+    margin: 2.5rem;
+  }
+  
+  /* Hover effect */
+  .custom-button:hover {
+    background-color: #2980b9; /* Change background color on hover */
+  }
+  

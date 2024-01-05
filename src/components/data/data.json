@@ -1,0 +1,83 @@
+[
+  {
+    "Date": "16/2/23",
+    "Month": "Feb",
+    "Year": "2023",
+    "Supplier": "Adani",
+    "Emissions(in CO2e)": 2205,
+    "Revenue (in INR)": 220000,
+    "E/R": 99.8
+  },
+  {
+    "Date": "17/3/23",
+    "Month": "Mar",
+    "Year": "2023",
+    "Supplier": "Reliance",
+    "Emissions(in CO2e)": 2251,
+    "Revenue (in INR)": 254815,
+    "E/R": 113.2
+  },
+  {
+    "Date": "6/4/23",
+    "Month": "Apr",
+    "Year": "2023",
+    "Supplier": "Shaurya Drugs",
+    "Emissions(in CO2e)": 4522,
+    "Revenue (in INR)": 879797,
+    "E/R": 194.6
+  },
+  {
+    "Date": "12/5/23",
+    "Month": "May",
+    "Year": "2023",
+    "Supplier": "Orlife Healthcare",
+    "Emissions(in CO2e)": 8522,
+    "Revenue (in INR)": 464464,
+    "E/R": 54.5
+  },
+  {
+    "Date": "11/8/23",
+    "Month": "Aug",
+    "Year": "2023",
+    "Supplier": "Rezicure Pharmaceuticals",
+    "Emissions(in CO2e)": 1124,
+    "Revenue (in INR)": 548582,
+    "E/R": 488.1
+  },
+  {
+    "Date": "6/10/23",
+    "Month": "Oct",
+    "Year": "2023",
+    "Supplier": "Steller Bio Labs",
+    "Emissions(in CO2e)": 4524,
+    "Revenue (in INR)": 516513,
+    "E/R": 114.2
+  },
+  {
+    "Date": "8/9/23",
+    "Month": "Sep",
+    "Year": "2023",
+    "Supplier": "Ruzette Organics",
+    "Emissions(in CO2e)": 7858,
+    "Revenue (in INR)": 564651,
+    "E/R": 71.9
+  },
+  {
+    "Date": "11/8/23",
+    "Month": "Aug",
+    "Year": "2023",
+    "Supplier": "Merion Care",
+    "Emissions(in CO2e)": 5258,
+    "Revenue (in INR)": 565556,
+    "E/R": 107.6
+  },
+  {
+    "Date": "10/11/23",
+    "Month": "Nov",
+    "Year": "2023",
+    "Supplier": "Eskos Pharma",
+    "Emissions(in CO2e)": 4524,
+    "Revenue (in INR)": 546561,
+    "E/R": 120.8
+  }
+]

@@ -1,0 +1,50 @@
+/* Displaybar.css */
+
+.displaybar {
+    width: 80vw;
+  }
+  .selector{
+    width: 80vw;
+    width: 15em; /* Example width */
+    height: 7em; /* Example height */
+    display: flex;
+    justify-content: flex-end;
+  }
+  .highlights {
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .chart{
+    margin: 2rem;
+  }
+  .revenue-chart {
+    width: 90%; /* Adjust width as needed */
+    height: 50vh; /* Adjust height as needed */
+    border: 1px solid #ccc; /* Add a border for visualization */
+  }
+  
+  
+  .emission-chart {
+    width: 40%; /* Adjust width as needed */
+    height: 50vh; /* Adjust height as needed */
+    border: 1px solid #ccc; /* Add a border for visualization */
+    /* Additional styles for emission-chart */
+  }
+  
+  .supplier-chart {
+    width: 50%; /* Adjust width as needed */
+    height: 50vh; /* Adjust height as needed */
+    border: 1px solid #ccc; /* Add a border for visualization */
+  }
+  
+  .div-1{
+    display: flex;
+  }
+  .total-reach{
+    width: 15em; /* Example width */
+    height: 7em; /* Example height */
+    background-color: #49d89d; /* Example background color */
+  }
