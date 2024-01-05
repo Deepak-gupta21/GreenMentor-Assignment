@@ -44,7 +44,10 @@
     display: flex;
   }
   .total-reach{
-    width: 15em; /* Example width */
-    height: 7em; /* Example height */
-    background-color: #49d89d; /* Example background color */
+    width: 15em; 
+    height: 7em; 
+    background-color: #49d89d; 
+    color:#faf7f7;
+    padding: 2em;
+    border-radius: 5%;
   }

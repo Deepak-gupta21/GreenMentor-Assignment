@@ -19,6 +19,7 @@ const Displaybar = () => {
         <Highlightbar />
         <Highlightbar />
         <div className="total-reach">
+          <p>Total number of reached suppliers</p>
         </div>
       </div>
       <div className="charts">

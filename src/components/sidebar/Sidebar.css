@@ -5,8 +5,8 @@
     color: #fff;
     overflow-y: auto; 
     flex-direction: column;
-    justify-content: center; /* Center horizontally */;
-    align-items: flex-start; /* Align to the top vertically */
+    justify-content: center; 
+    align-items: flex-start; 
   }
   
   .sidebar h2 {
@@ -41,19 +41,19 @@
   
   /* Styling for the button */
 .custom-button {
-    padding: 10px 20px; /* Padding around the text */
-    font-size: 16px; /* Font size */
-    font-weight: bold; /* Bold font weight */
-    border: none; /* Remove default button border */
-    border-radius: 5px; /* Rounded corners */
-    background-color: #3498db; /* Button background color */
-    color: #fff; /* Text color */
-    cursor: pointer; /* Show pointer cursor on hover */
+    padding: 10px 20px; 
+    font-size: 16px; 
+    font-weight: bold; 
+    border: none;
+    border-radius: 5px; 
+    background-color: #49d89d;
+    color: #fff; 
+    cursor: pointer; 
     margin: 2.5rem;
   }
   
   /* Hover effect */
   .custom-button:hover {
-    background-color: #2980b9; /* Change background color on hover */
+    background-color: #2980b9; 
   }
   
